@@ -1,7 +1,7 @@
 Output:
 -------
 
-Starting new simulation on Fri 17. May 2019 at 10:14:18:268
+Starting new simulation on Fri 17. May 2019 at 16:45:32:404
 
 creating netlist... done.
 Starting C:/Users/justRandom/Documents/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/bin/qucsator.exe
@@ -12,19 +12,15 @@ factorycreate.size() is 0
 factorycreate has registered:
 parsing netlist...
 checking netlist...
-checker notice, variable `S' in equation `S21_dB' not yet defined
-checker notice, variable `S' in equation `S11_dB' not yet defined
 netlist content
-      4 MCOUPLED instances
-      8 MOPEN instances
-      2 Pac instances
-      1 SUBST instances
-      1 SP instances
+      3 VProbe instances
+      2 R instances
+      1 Vpulse instances
+      1 TR instances
+      1 COAX instances
 creating netlist...
-checker notice, variable `S' in equation `S21_dB' not yet defined
-checker notice, variable `S' in equation `S11_dB' not yet defined
 
-Simulation ended on Fri 17. May 2019 at 10:14:18:363
+Simulation ended on Fri 17. May 2019 at 16:45:32:533
 Ready.
 
 
